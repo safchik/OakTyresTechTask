@@ -1,0 +1,12 @@
+    oakcode     |           description           | manufacturer | section | profile | rim | season | fuellabelscore | noisedblabelscore | wetgriplabelscore 
+----------------+---------------------------------+--------------+---------+---------+-----+--------+----------------+-------------------+-------------------
+ 1857516MIR003  | 185/75R16 MICHELIN AGILIS+ 8PLY | Michelin     |     185 |      75 |  16 | S      | C              |                70 | B
+ 1955016COVR008 | 195/50VR16 CONTI ULTRACNT       | Continental  |     195 |      50 |  16 | S      | C              |                69 | A
+ 1955516COHR007 | 195/55HR16 CONTI PREM CONT 5    | Continental  |     195 |      55 |  16 | S      | C              |                71 | A
+ 1955516GYHR025 | 195/55HR16 GYEAR EFFIGR PERF    | Goodyear     |     195 |      55 |  16 | S      | A              |                69 | B
+ 1955516GYHR033 | 195/55HR16 GOODYEAR EG PERF 2   | Goodyear     |     195 |      55 |  16 | S      | C              |                69 | A
+ 1956516DATR018 | 195/65TR16 DAVANTI DX440 8PLY   | Davanti      |     195 |      65 |  16 | S      | C              |                72 | C
+ 2055516HKWR012 | 205/55WR16 HANK K125B PRM3 *RFT | Hankook      |     205 |      55 |  16 | S      | B              |                70 | A
+ 2256016MIYR004 | 225/60YR16 MICHELIN PRIMACY 4   | Michelin     |     225 |      60 |  16 | S      | C              |                71 | B
+(8 rows)
+

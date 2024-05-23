@@ -1,0 +1,24 @@
+    oakcode     |                description                | manufacturer | section | profile | rim | season | fuellabelscore | noisedblabelscore | wetgriplabelscore 
+----------------+-------------------------------------------+--------------+---------+---------+-----+--------+----------------+-------------------+-------------------
+ 1756515DUHR002 | 175/65HR15 DLP SP SPT FASTRESPONSE        | Dunlop       |     175 |      65 |  15 | S      | C              |                70 | B
+ 1856015DUHR014 | 185/60HR15 DUNLOP SPT BLUERSPNSE          | Dunlop       |     185 |      60 |  15 | S      | B              |                70 | B
+ 1857516MIR003  | 185/75R16 MICHELIN AGILIS+ 8PLY           | Michelin     |     185 |      75 |  16 | S      | C              |                70 | B
+ 2055017DAWR070 | 205/50WR17 DAVANTI PROTOURA SPRT XL       | Davanti      |     205 |      50 |  17 | S      | C              |                70 | B
+ 2055017PIHR006 | 205/50HR17 PIR CIN P7 C2                  | Pirelli      |     205 |      50 |  17 | S      | A              |                70 | B
+ 2055516HKWR012 | 205/55WR16 HANK K125B PRM3 *RFT           | Hankook      |     205 |      55 |  16 | S      | B              |                70 | A
+ 2157015HKSR002 | 215/70S15 HANK VANTRA RA18 8PLY           | Hankook      |     215 |      70 |  15 | S      | D              |                70 | C
+ 2253519DAYR007 | 225/35YR19 DAVANTI PROTOURA SPT XL        | Davanti      |     225 |      35 |  19 | S      | D              |                70 | B
+ 2255017BRWR004 | 225/50WR17 BST TURA ECO XL                | Bridgestone  |     225 |      50 |  17 | S      | B              |                70 | A
+ 2255518MIYR003 | 225/55YR18 MICH PILOT SPORT 4 XL          | Michelin     |     225 |      55 |  18 | S      | A              |                70 | A
+ 2256018GYWR003 | 225/60WR18 GYEAR EFFICGRIP SUV            | Goodyear     |     225 |      60 |  18 | S      | C              |                70 | B
+ 2354018MIWR007 | 235/40WR18 MICHELIN PILOT SPORT 4 XL      | Michelin     |     235 |      40 |  18 | S      | B              |                70 | A
+ 2355018DAYR010 | 235/50YR18 DAVANTI DX640 XL               | Davanti      |     235 |      50 |  18 | S      | C              |                70 | B
+ 2355518GYWR011 | 235/55WR18 GOODYEAR EFFIGRIP SUV XL       | Goodyear     |     235 |      55 |  18 | S      | C              |                70 | B
+ 2454518GYWR017 | 245/45WR18 GYEAR EAGLE F1 ASYMMETRIC 5 XL | Goodyear     |     245 |      45 |  18 | S      | B              |                70 | A
+ 2553519MIYR020 | 255/35YR19 MICHELIN PILOT SPORT 4S XL     | Michelin     |     255 |      35 |  19 | S      | C              |                70 | A
+ 2554519GYWR022 | 255/45WR19 GYEAR EAGLE F1 ASYMMETRIC 3 XL | Goodyear     |     255 |      45 |  19 | S      | B              |                70 | A
+ 2654018COYR019 | 265/40YR18 CONTI SPORTCONTACT 5 XL        | Continental  |     265 |      40 |  18 | S      | B              |                70 | B
+ 2853519MIYR030 | 285/35YR19 MICHELIN PILOT SPORT 4S XL     | Michelin     |     285 |      35 |  19 | S      | A              |                70 | A
+ 2954019GYWR031 | 295/40WR19 GYEAR EAGLE F1 ASYMMETRIC 3 XL | Goodyear     |     295 |      40 |  19 | S      | B              |                70 | A
+(20 rows)
+

@@ -1,0 +1,2 @@
+SELECT 2
+UPDATE 2
